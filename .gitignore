@@ -1,0 +1,9 @@
+# Tajne — NIKAD na GitHub
+.env
+.streamlit/secrets.toml
+
+# Generisano
+index.npz
+__pycache__/
+.ipynb_checkpoints/
+.venv/
